@@ -1,3 +1,3 @@
 # sistema-bancario
 # hotelaria
-# starbucks-(atividade de escolha)
+# starbucks-(atividade de herança)
